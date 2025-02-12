@@ -3,7 +3,8 @@
 <head>
   <meta charset="utf-8">
   <title>Ma Présentation</title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.0.2/reveal.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/theme/black.css" id="theme">
 </head>
 <body>
   <div class="reveal">
@@ -16,9 +17,12 @@
       </section>
     </div>
   </div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.0.2/reveal.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/plugin/markdown/markdown.js"></script>
   <script>
-    Reveal.initialize();
+    Reveal.initialize({
+      plugins: [ RevealMarkdown ]
+    });
   </script>
 </body>
 </html>
