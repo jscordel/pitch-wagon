@@ -27,6 +27,6 @@ Donne moi un texte et je te dirai s'il est falacieux 🔮
 
 ## ARRIVEE 🏁  
 
-**⚡️ Energy?**  
-... et combien d'énergie j'ai consommé pour cette inférence.  
+**Energie**  
+... et combien d'énergie j'ai consommé pour cette inférence. ⚡️  
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHYwbWoxcmswcTIxYW5qdjVqeXlxcmhmcHV3cWM1eDR5cmhvYnBmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BJtFvZfq32ty99kvXw/giphy.gif)
