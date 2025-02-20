@@ -1,4 +1,5 @@
-## Detecting climate disinformation 📝
+## Détecter la désinformation climatique   
+## *et rester cohérent avec un modèle frugal* 📝
 
 ---
 Le Wagon — Data Science #1820
