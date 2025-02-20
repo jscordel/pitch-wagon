@@ -1,13 +1,20 @@
-# Ma Présentation
+# 📝 Detecting climate disinformation 📝
+based on text from news articles
 
-## Slide 1 : Introduction
-- Bienvenue à ma présentation
-- Aujourd'hui, nous allons parler de...
+---
+Le Wagon — Data Science #1820
 
-## Slide 2 : Contenu Principal
-- Point 1 : Explication
-- Point 2 : Détails
+## Départ 🚀
+**Objectif : ** Développer un modèle performant (accuracy) et frugal (Wh)
 
-## Slide 3 : Conclusion
-- Résumé des points clés
-- Questions ?
+**Données : ** Très propres, sur HF (https://huggingface.co/datasets/QuotaClimat/frugalaichallenge-text-train)
+
+## Pistes d'explorations 🗺️
+- Modèles : pré-LLM (BERT), Small Language Model à fine-tuner (Qwen)
+- Finetuning des embeddings
+- Finetuning de classifier : Random forests, Log regression, MLP, ..
+
+Et bien d’autres  🥰
+
+## Arrivée 🏁
+- 
