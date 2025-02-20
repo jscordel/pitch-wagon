@@ -9,7 +9,7 @@ Développer un modèle *performant* (% accuracy) et *frugal* (Wh) pour la détec
 
 **Données**  
 Très propres, [sur HF](https://huggingface.co/datasets/QuotaClimat/frugalaichallenge-text-train)
-Citations de textes (EN) catégorisées suivant 8 étiquettes de désinformation ('not_relevant', 'not_happening', 'not_human', ...)
+Citations de textes (EN) catégorisées suivant 8 étiquettes de désinformation  
 Train : 4,87k lignes  
 Test : 1,22k lignes  
 
