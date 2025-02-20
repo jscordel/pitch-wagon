@@ -12,11 +12,11 @@ Développer un modèle *performant* (% accuracy) et *frugal* (Wh) pour la détec
 Train : 4,87k lignes  
 Test : 1,22k lignes  
 
-## Pistes d'explorations 🗺️
+## Pistes d'explorations 🗺️  
 - Fine tuning de modèles : pré-LLM (ie: BERT), petit Language Model à fine-tuner (ie: Qwen)
 - Finetuning des embeddings
 - Finetuning de classifier : Random forests, Log regression, MLP, ..
 - *Et bien d’autres*  🥰
 
-## Arrivée 🏁
-- 
+## Arrivée 🏁  
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRzYzNwY3NwMHJnMjhwejA3c2VlcG5pdGJjd3Zua2NpdmRza2VrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yxx6hlbDZ4Q6MX3rS4/giphy.gif)  
