@@ -1,4 +1,4 @@
-## 📝 Detecting climate disinformation 📝
+## Detecting climate disinformation 📝
 
 ---
 Le Wagon — Data Science #1820
