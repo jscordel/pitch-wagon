@@ -5,7 +5,7 @@ Le Wagon — Data Science #1820
 
 ## Départ 🚀  
 **Objectif**  
-Développer un modèle *performant* (% accuracy) et *frugal* (Wh) pour la détection de désinformation dans des textes.
+Développer un modèle *performant* (% accuracy) et *frugal* (Wh) pour la détection de désinformation lié au climat dans des textes.
 
 **Données**  
 [6k citations (EN) catégorisées suivant 8 étiquettes de désinformation](https://huggingface.co/datasets/QuotaClimat/frugalaichallenge-text-train)  
