@@ -13,7 +13,7 @@ Train : 4,87k lignes
 Test : 1,22k lignes  
 
 ## Pistes d'explorations 🗺️
-- Fine tuning de modèles (non LLM) : pré-LLM (BERT), Small Language Model à fine-tuner (Qwen)
+- Fine tuning de modèles : pré-LLM (ie: BERT), petit Language Model à fine-tuner (ie: Qwen)
 - Finetuning des embeddings
 - Finetuning de classifier : Random forests, Log regression, MLP, ..
 - *Et bien d’autres*  🥰
