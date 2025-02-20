@@ -8,8 +8,7 @@ Le Wagon — Data Science #1820
 Développer un modèle *performant* (% accuracy) et *frugal* (Wh) pour la détection de désinformation dans des textes.
 
 **Données**  
-Très propres, [sur HF](https://huggingface.co/datasets/QuotaClimat/frugalaichallenge-text-train)
-Citations de textes (EN) catégorisées suivant 8 étiquettes de désinformation  
+[6k citations (EN) catégorisées suivant 8 étiquettes de désinformation](https://huggingface.co/datasets/QuotaClimat/frugalaichallenge-text-train)
 Train : 4,87k lignes  
 Test : 1,22k lignes  
 
